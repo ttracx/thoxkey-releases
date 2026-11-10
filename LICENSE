@@ -1,0 +1,30 @@
+THOX.ai LLC Release List License
+
+Copyright (c) 2026 THOX.ai LLC. All rights reserved.
+
+This repository contains the ThoxKey Start release list (releases.json) and
+its documentation (together, the "List"). THOX.ai LLC owns the List.
+
+Permission is granted to any person to read, download and copy the List and
+to use it, without charge, for these purposes only:
+
+  1. checking whether a newer ThoxKey Start release is published, including
+     automatic checks made by ThoxKey Start itself; and
+  2. verifying that a ThoxKey Start file matches the SHA-256 checksum the
+     List gives for it.
+
+The List may be redistributed only unchanged and complete, with this license
+and NOTICE.md. Any changed copy must not be presented as the THOX.ai LLC
+release list.
+
+This license grants no right to the ThoxKey Start software, its release
+files or any other THOX.ai LLC product; those are governed by their own
+terms. It grants no right to use the names or marks THOX, THOX.ai, ThoxKey,
+ThoxOS or the THOX chip mark, other than to refer to the List truthfully.
+
+No other license, express or implied, is granted.
+
+THE LIST IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING ANY WARRANTY OF ACCURACY, MERCHANTABILITY OR FITNESS FOR
+A PARTICULAR PURPOSE. IN NO EVENT SHALL THOX.ai LLC BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE LIST OR ITS USE.

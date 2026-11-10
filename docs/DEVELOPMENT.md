@@ -43,5 +43,5 @@ Never edit a published entry's checksums. If a release is withdrawn, remove its 
 
 ## Roadmap
 
-- Add `start-windows-v0.4.2` once it is published.
+- Add `start-windows-v0.4.2` once its sealed package names this list (published 2026-11-10; package being resealed).
 - Add Linux and macOS entries when those releases are published.

@@ -64,3 +64,17 @@ THOX.ai adds an entry when a ThoxKey Start release is published, after checking 
 ## License and notice
 
 Use of the list is governed by [LICENSE](LICENSE). Copyright, trademarks and the THOX.ai LLC intellectual property notice: [NOTICE.md](NOTICE.md). Report a security issue to security@thox.ai, not in a public issue.
+
+---
+
+## Legal
+
+Copyright (c) 2024-2026 THOX.ai LLC. All rights reserved.
+
+**THOX.ai LLC**
+- CTO: Tommy Xaypanya
+- CEO: Craig Ross
+
+See [LICENSE](LICENSE) for license terms.
+
+Unauthorized copying, modification, merger, publication, distribution, sublicensing, and/or selling of this software, via any medium, is strictly prohibited without prior written consent from THOX.ai LLC.
